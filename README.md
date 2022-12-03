@@ -78,9 +78,11 @@ cv2.destroyAllWindows()
 INPUT IMAGE:
 
 ![nn-02](https://user-images.githubusercontent.com/114279259/205431846-71d9dfed-38e8-4905-bbea-440e82e65b1a.jpg)
+
 DETECTED IMAGE:
 
 ![NN-01](https://user-images.githubusercontent.com/114279259/205431851-44c6d823-1565-4e6f-a86a-25ff691e7e37.png)
+
 FINAL OUTPUT:
 
 ![nn-03](https://user-images.githubusercontent.com/114279259/205431866-698bdbed-5179-4704-8c1d-67f8f21fc2d8.png)
